@@ -1,0 +1,194 @@
+*{
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+}
+
+body{
+    display: flex;
+	flex-wrap: wrap;
+    background-color:#171521;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* HEADER */ 
+
+a{
+	text-decoration-line: none;
+    color: white;
+
+}
+
+header{
+	flex-basis: 100%;
+    margin-top: 25px;
+	margin-bottom: 50px;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+header div{
+	flex-basis: 100%;
+    text-align: center;
+    margin: 20px;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 30px;
+    color: #FFF82F;
+}
+
+header nav{
+    flex-basis: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	margin: 0 auto;
+	max-width: 1920px;
+	margin: 0 20px;
+	padding-bottom: 15px;
+    justify-content: center;
+    
+}
+
+header nav a{
+	display: flex;
+	margin: 0 20px;
+    color: white;
+}
+
+/* CORPO */
+
+
+
+#games-container{
+	display: flex;
+	flex-basis: 100%;
+	flex-wrap: wrap;
+	font-family: 'Montserrat', sans-serif;
+}
+
+
+.inner-container{
+	flex-basis: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	margin: 10px;
+}
+
+h1{
+	padding: 10px;
+	flex-basis: 100%;
+	margin: 15px;
+	background-color: #302859;
+}
+
+#gamersgate-games,#nuuvem-games,#steam-games{
+	flex-basis: 100%;
+    display: flex;
+    margin: 15px 0px 15px 15px;
+    justify-content: left;
+    flex-wrap: wrap;
+}
+
+.catalog-item--full-price,.catalog-item--hover-back,.catalog-item--button,.catalog-item--product-labels,.product--labels,.product-drm-info,.product-badge,.product-badge__dlc,.icon .icon-cart-add,.vr_supported,.search_released,strike,.product-os-info,.search_reviewscore{
+	display: none;
+}
+
+.catalog-item-container,.product-card--wrapper,.search_result_row,.ds_collapse_flag,.catalog-item-container {
+	display: flex;
+	flex-wrap: wrap;
+	margin-bottom: 10px;
+	margin-right: 10px;
+	background-color: #24203A;
+	align-content: flex-start;
+	width: 295px;
+	
+}
+
+.catalog-item--image>a>img,.product-img>img,.search_capsule>img{
+	flex-basis: 100%;
+    flex-wrap: wrap;
+	margin-bottom: 5px;
+	width: 295px;
+} 
+
+
+
+.catalog-item--description,.product-card--content-wrapper,.product-card--content,.product-card--footer,.mod-price,.product-price,.product-price__small,.responsive_search_name_combined{
+	flex-basis: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	
+}
+
+.search_price_discount_combined{
+	flex-basis: 100%;
+	display: flex;
+
+}
+
+
+.catalog-item--title,.product-title,.single-line-name,.search_name,.ellipsis,.nuuvem-title{
+    flex-basis: 100%;
+	flex-wrap: wrap;
+	font-size: 14px;
+    padding: 10px;
+	margin-bottom: 5px;
+	height: 40px;
+}
+
+.catalog-item--product-label,.product--label-discount,.product-price--discount,.search_discount{
+    font-size: 16px;
+    background-color: #FF1010;
+    font-weight: 600;
+    padding: 5px;
+	height: fit-content;
+	margin: 0 0 10px 10px;
+}
+
+.catalog-item--price,.search_price,.discounted,.product-btn-add-to-cart,.product-btn-add-to-cart__with_price,.btn-conversion,.nvm-btn {
+	font-size: 16px;
+    background-color: #09080D;
+    font-weight: 600;
+    padding: 5px;
+    color: white;
+	margin-left: 5px;
+	margin: 0 0 10px 10px;
+}
+
+.product-btn-add-to-cart,.product-btn-add-to-cart__with_price,.btn-conversion,.nvm-btn {
+	border: none;
+}
+.product-price--val{
+	display: flex;
+	justify-content: center;
+	font-family: 'Montserrat', sans-serif;
+	align-items: center;
+	font-size: 16px;
+}
+.currency-symbol{
+	margin-right: 5px;
+}
+
+
+/* FOOTER */
+
+footer{
+	flex-basis: 100%;
+	margin-top: 50px;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+#rodape{
+    flex-basis: 100%;
+	max-width: 1920px;
+	margin: 20px;
+
+}
+
+#rodape p{
+	flex-basis: 100%;
+	text-align: center;
+	margin: 0 auto;
+	font-size: 12px;
+}
