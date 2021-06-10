@@ -1,0 +1,55 @@
+<svg id="Camada_2" data-name="Camada 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 785.68 897.18">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #fbd705;
+      }
+
+      .cls-3 {
+        fill: #2a2a2a;
+      }
+    </style>
+  </defs>
+  <title>coin</title>
+  <g id="Camada_3" data-name="Camada 3">
+    <polygon class="cls-1" points="260.77 859.13 245.29 820.41 169.42 820.41 116.77 755.38 76.52 685.71 68.77 637.71 39.35 637.71 26.97 259.9 84.26 238.22 90.45 145.32 143.87 109.71 243.74 75.64 280.9 26.09 505.26 26.09 592.13 112.8 686.58 233.58 733.03 419.38 695.87 648.54 599.87 801.84 505.26 846.74 349.03 874.61 260.77 859.13"/>
+  </g>
+  <rect class="cls-2" x="337.05" y="224.25" width="112.15" height="448.68"/>
+  <rect class="cls-3" x="449.2" y="168.18" width="56.06" height="560.77"/>
+  <rect class="cls-3" x="280.9" y="672.93" width="168.29" height="56.02"/>
+  <g id="Camada_4" data-name="Camada 4">
+    <rect class="cls-2" x="505.26" y="168.18" width="111.9" height="560.77"/>
+    <rect class="cls-2" x="169" y="167.9" width="111.9" height="561.1"/>
+  </g>
+  <g id="Camada_5" data-name="Camada 5">
+    <rect class="cls-2" x="617.16" y="280.03" width="56" height="337.03"/>
+    <rect class="cls-2" x="280.9" y="112.12" width="280.31" height="56.06"/>
+    <rect class="cls-2" x="113" y="280.07" width="56" height="337.03"/>
+    <rect class="cls-2" x="224.9" y="729" width="336.31" height="56.06"/>
+    <rect class="cls-3" x="224.9" y="841.12" width="336.31" height="56.06"/>
+    <rect class="cls-3" x="449" y="785.06" width="224.16" height="56.06"/>
+    <rect class="cls-3" x="617.12" y="672.91" width="112.08" height="56.06"/>
+    <rect class="cls-3" x="617.12" y="617.06" width="112.08" height="56.06"/>
+    <rect class="cls-3" x="561.12" y="729" width="112.08" height="56.06"/>
+    <rect class="cls-3" x="224.68" width="336.31" height="56.06"/>
+    <rect class="cls-3" x="448.92" y="56.06" width="224.16" height="56.35"/>
+    <rect class="cls-3" x="561.12" y="111.84" width="112.08" height="56.34"/>
+    <rect class="cls-3" x="617.16" y="168.19" width="112.08" height="56.06"/>
+    <rect class="cls-3" x="617.16" y="224.24" width="112.08" height="56.06"/>
+    <rect class="cls-3" x="673.2" y="280.3" width="112.48" height="336.76"/>
+    <rect class="cls-3" x="113" y="56.06" width="167.9" height="56.07"/>
+    <rect class="cls-3" x="56.63" y="111.55" width="112.37" height="56.35"/>
+    <rect class="cls-3" x="56.63" y="167.9" width="56.35" height="56.35"/>
+    <rect class="cls-3" y="223.25" width="113" height="56.82"/>
+    <rect class="cls-3" y="280.07" width="56.5" height="337.03"/>
+    <rect class="cls-3" y="617.11" width="113" height="56.82"/>
+    <rect class="cls-3" x="56.63" y="673.93" width="56.35" height="56.35"/>
+    <rect class="cls-3" x="56.79" y="728.94" width="112.37" height="56.35"/>
+    <rect class="cls-3" x="113" y="785.23" width="167.9" height="56.07"/>
+  </g>
+  <rect class="cls-2" x="280.9" y="785.06" width="168.29" height="56.06"/>
+</svg>
